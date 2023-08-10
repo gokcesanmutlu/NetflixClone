@@ -6,8 +6,6 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    
-  <p>It is a useful website where you can order delicious Pizzas!</p>
 <h2 id="built-with">Built With</h2>
   <ul>
     <li>HTML</li>
